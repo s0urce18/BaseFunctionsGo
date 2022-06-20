@@ -18,7 +18,7 @@ The mail is also duplicated in my profile.
 
 Besides me, you can use:
 
-https://metanit.com/go/tutorial
+https://www.w3schools.com/go/
 
 These sources I guarantee that they are verified, I myself studied from them, but as for me, many things are painted there with too complex words.
 
