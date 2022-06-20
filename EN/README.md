@@ -454,7 +454,7 @@ var a2 = [5]int{1, 2, 3, 4, 5}
 var a3 := [5]int{1, 2, 3, 4, 5}
 ```
 
-<img src = "http://study-java.ru/wp-content/uploads/2014/03/array.png">
+<img src = "https://englishlib.org/dictionary/img/wlibrary/a/5ff5b45fa3fcb5.59228496.jpg">
 
 For a better understanding, let's use the picture above. As you can see, an array is, roughly speaking, a set of "cells" with values ​​​​to which indices are attached in parallel, by which you can get the value to which they correspond.
 
